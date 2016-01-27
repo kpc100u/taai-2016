@@ -1,0 +1,18 @@
+title: TAAI 2016
+description: The 2016 Conference on Technologies and Applications of Artificial Intelligence
+
+#url: http://brianmaierjr.github.com/long-haul
+#baseurl: ""
+#paginate_path: "blog/page:num/"
+#permalink: blog/:title/
+
+markdown: redcarpet
+#highlighter: pygments
+
+navigation:
+ - title: Call for Paper
+   url: /index.html
+ - title: News
+   url: /news
+ - title: Contact
+   url: /contact
