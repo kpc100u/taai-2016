@@ -806,7 +806,7 @@ dd {
     background-position: center center;
     color: white;
     padding: 0;
-    height: 3em
+    height: 3em;
 }
 .header .container {
     padding: 0;
@@ -835,6 +835,9 @@ dd {
 }
 .desc {
 	display: none;
+}
+.date, .location {
+    display: none;
 }
 .post .postTitle {
     text-align: center;
@@ -1125,7 +1128,7 @@ dd {
         line-height: 1;
         letter-spacing: 0px;
         padding-left: 0;
-        text-shadow: 2px 2px #212121;
+        text-shadow: 2px 2px 3px rgba(100, 100, 100, 1);
     }
     .header nav {
         float: left;
@@ -1156,7 +1159,12 @@ dd {
     }
     .desc {
     	display: block;
-        text-shadow: 2px 2px #212121;
+        text-shadow: 2px 2px 3px rgba(100, 100, 100, 1);
+    }
+    .date, .location {
+        display: inline;
+        color: #CECECE
+        text-shadow: 2px 2px 3px rgba(100, 100, 100, 1);
     }
     .js .nav-collapse {
         position: relative;

@@ -1,18 +1,24 @@
 title: TAAI 2016
-description: The 2016 Conference on Technologies and Applications of Artificial Intelligence
+date: 25 - 27 November, 2016.
+location: Hsinchu, Taiwan
+description: 2016 Conference on Technologies and Applications of Artificial Intelligence
 
 #url: http://brianmaierjr.github.com/long-haul
 baseurl: /taai2016
-#paginate_path: "blog/page:num/"
+paginate_path: "news/page:num/"
 #permalink: blog/:title/
 
 markdown: redcarpet
-#highlighter: pygments
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
 
 navigation:
  - title: Call for Paper
    url: /index.html
  - title: News
-   url: /news.html
+   url: /news
  - title: Contact
    url: /contact.html
+
+#google_analytics: "UA-58263416-1"
