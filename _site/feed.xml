@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TAAI 2016</title>
+    <description>2016 Conference on Technologies and Applications of Artificial Intelligence</description>
+    <link>/~taai2016/</link>
+    <atom:link href="/~taai2016/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Mar 2016 16:50:40 +0900</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2016 16:50:40 +0900</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      
+      <item>
+        <title>TAAI 2016</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;he 2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016) is the 21st annual conference sponsored by the Taiwanese Association for Artificial Intelligence (TAAI) and one of the most important annual academic meetings on Artificial Intelligence in Taiwan.&lt;br&gt;&lt;br&gt;The conference will be held during 25-27 November, 2016 in Hsinchu, Taiwan.&lt;/p&gt;
+
+&lt;h2&gt;Major Parts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data Science&lt;/li&gt;
+&lt;li&gt;International Workshop on Human-Centric Computing (HCC)&lt;/li&gt;
+&lt;li&gt;International Workshop on Computer Games (IWCG)&lt;/li&gt;
+&lt;li&gt;Workshop on Theory and Applications of Evolutionary Algorithms (TAEA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        
+          <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;T&lt;/span&gt;he 2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016) is the 21st annual conference sponsored by the Taiwanese Association for Artificial Intelligence (TAAI) and one of the most important annual academic meetings on Artificial Intelligence in Taiwan.&lt;br&gt;&lt;br&gt;The conference will be held during 25-27 November, 2016 in Hsinchu, Taiwan.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 16 Mar 2016 00:00:00 +0900</pubDate>
+        <link>/~taai2016/2016/03/16/exmaple-post-formatting.html</link>
+        <guid isPermaLink="true">/~taai2016/2016/03/16/exmaple-post-formatting.html</guid>
+        
+        
+      </item>
+      
+    
+  </channel>
+</rss>
