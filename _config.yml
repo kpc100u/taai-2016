@@ -4,7 +4,7 @@ location: Hsinchu, Taiwan
 description: 2016 Conference on Technologies and Applications of Artificial Intelligence
 
 #url: http://brianmaierjr.github.com/long-haul
-baseurl: /taai2016
+baseurl: /~taai2016
 paginate_path: "news/page:num/"
 #permalink: blog/:title/
 
